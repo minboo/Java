@@ -10,5 +10,5 @@
 ## 第二章 [基本语法](https://github.com/minboo/Java/blob/main/Chapter2)
    #### [2.1 关键词与标识符](https://github.com/minboo/Java/blob/main/Chapter2/1.关键词与标识符)
      
-   ###### [2.1.1 代码简洁之道_部分整理](https://github.com/minboo/Java/blob/main/Chapter2/2.代码简洁之道_部分整理)
+   ###### [2.1.1 代码简洁之道_部分整理](https://github.com/minboo/Java/blob/main/Chapter2/1.1代码简洁之道_部分整理)
    
