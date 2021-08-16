@@ -12,5 +12,5 @@
      
    ###### [2.1.1 代码简洁之道_部分整理](https://github.com/minboo/Java/blob/main/Chapter2/1.1代码简洁之道_部分整理.md)
    
-   #### [2.1 变量的使用](https://github.com/minboo/Java/blob/main/Chapter2/2.变量的使用.md)
+   #### [2.2 变量的使用](https://github.com/minboo/Java/blob/main/Chapter2/2.变量的使用.md)
    
