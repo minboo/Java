@@ -18,4 +18,4 @@
 ## 第三章 [数组](https://github.com/minboo/Java/blob/main/Chapter_3)
    #### [3.1数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/1.数组的概述.md)
    
-   #### [3.2数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
+   #### [3.2一维数组](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
