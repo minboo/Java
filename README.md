@@ -17,4 +17,5 @@
    #### [2.3运算符](https://github.com/minboo/Java/blob/main/Chapter_2/3.%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 ## 第三章 [数组](https://github.com/minboo/Java/blob/main/Chapter_3)
    #### [3.1数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/1.数组的概述.md)
-   #### [3.1数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
+   
+   #### [3.2数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
