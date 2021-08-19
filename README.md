@@ -21,3 +21,7 @@
    #### [3.2一维数组](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
    
    #### [3.3二维数组](https://github.com/minboo/Java/blob/main/Chapter_3/3.二维数组.md)
+   
+   #### [3.4Array工具类的使用](https://github.com/minboo/Java/blob/main/Chapter_3/4.Array工具类的使用.md)
+   
+   #### [3.5数组的常见异常](https://github.com/minboo/Java/blob/main/Chapter_3/5.数组的常见异常.md)
