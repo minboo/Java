@@ -85,5 +85,5 @@
    </div>
    <div align=center>
      
-   ###### [4.2 类的重要属性之一：](https://github.com/minboo/Java/blob/main/Chapter_4/4.2代码简洁之道_部分整理.md)
+   ###### [4.2 类的结构之一：属性](https://github.com/minboo/Java/blob/main/Chapter_4/4.2类的结构之一：属性.md)
    </div>
