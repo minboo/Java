@@ -81,9 +81,9 @@
    </div>
    <div align=center>
    
-   #### [4.1 关键字与标识符](https://github.com/minboo/Java/blob/main/Chapter_4/1.类与对象.md)
+   #### [4.1 类与对象](https://github.com/minboo/Java/blob/main/Chapter_4/1.类与对象.md)
    </div>
    <div align=center>
      
-   ###### [4.2 类的结构之一：属性](https://github.com/minboo/Java/blob/main/Chapter_4/4.2类的结构之一：属性.md)
+   ###### [4.2 类的结构之一：属性](https://github.com/minboo/Java/blob/main/Chapter_4/2.类的结构之一：属性.md)
    </div>
