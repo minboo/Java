@@ -87,3 +87,17 @@
      
    ###### [4.2 类的结构之一：属性](https://github.com/minboo/Java/blob/main/Chapter_4/2.类的结构之一：属性.md)
    </div>
+   
+
+   <div align=center>
+   
+   #### [4.3 类的结构之二：方法](https://github.com/minboo/Java/blob/main/Chapter_4/3.类的结构之二：方法.md)
+   </div>
+   <div align=center>
+     
+   ###### [4.4 面向对象的特征一：封装性](https://github.com/minboo/Java/blob/main/Chapter_4/4.面向对象的特征一：封装性.md)
+   </div>
+   <div align=center>
+   
+   #### [4.3 类的结构之三：构造器](https://github.com/minboo/Java/blob/main/Chapter_4/5.类的结构之三：构造器.md)
+   </div>
