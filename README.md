@@ -99,5 +99,9 @@
    </div>
    <div align=center>
    
-   #### [4.3 类的结构之三：构造器](https://github.com/minboo/Java/blob/main/Chapter_4/5.类的结构之三：构造器.md)
+   #### [4.5 类的结构之三：构造器](https://github.com/minboo/Java/blob/main/Chapter_4/5.类的结构之三：构造器.md)
+   </div>
+   <div align=center>
+   
+   #### [4. 关键字：this](https://github.com/minboo/Java/blob/main/Chapter_4/6.关键字：this.md)
    </div>
