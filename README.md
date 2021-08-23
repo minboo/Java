@@ -103,5 +103,13 @@
    </div>
    <div align=center>
    
-   #### [4. 关键字：this](https://github.com/minboo/Java/blob/main/Chapter_4/6.关键字：this.md)
+   #### [4.6 关键字：this](https://github.com/minboo/Java/blob/main/Chapter_4/6.关键字：this.md)
+   </div>
+   <div align=center>
+   
+   #### [4.7 面向对象的特征二：继承性](https://github.com/minboo/Java/blob/main/Chapter_4/7.面向对象的特征二：继承性.md)
+   </div>
+   <div align=center>
+   
+   #### [4.8 方法的重写](https://github.com/minboo/Java/blob/main/Chapter_4/8.方法的重写.md)
    </div>
