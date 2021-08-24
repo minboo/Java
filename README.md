@@ -113,3 +113,19 @@
    
    #### [4.8 方法的重写](https://github.com/minboo/Java/blob/main/Chapter_4/8.方法的重写.md)
    </div>
+   <div align=center>
+   
+   #### [4.9 关键字：super](https://github.com/minboo/Java/blob/main/Chapter_4/9.关键字：super.md)
+   </div>
+   <div align=center>
+   
+   #### [4.10 面向对象的特征三：多态性](https://github.com/minboo/Java/blob/main/Chapter_4/10.面向对象的特征三：多态性.md)
+   </div>
+   <div align=center>
+   
+   #### [4.11 Object类的使用](https://github.com/minboo/Java/blob/main/Chapter_4/11.：Object类的使用.md)
+   </div>
+   <div align=center>
+   
+   #### [4.12 单元测试方法](https://github.com/minboo/Java/blob/main/Chapter_4/12.单元测试方法.md)
+   </div>
