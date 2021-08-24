@@ -123,7 +123,7 @@
    </div>
    <div align=center>
    
-   #### [4.11 Object类的使用](https://github.com/minboo/Java/blob/main/Chapter_4/11.：Object类的使用.md)
+   #### [4.11 Object类的使用](https://github.com/minboo/Java/blob/main/Chapter_4/11.Object类的使用.md)
    </div>
    <div align=center>
    
