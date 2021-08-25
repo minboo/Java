@@ -129,3 +129,15 @@
    
    #### [4.12 单元测试方法](https://github.com/minboo/Java/blob/main/Chapter_4/12.单元测试方法.md)
    </div>
+   <div align=center>
+   
+   #### [4.13 包装类的使用](https://github.com/minboo/Java/blob/main/Chapter_4/13.包装类的使用.md)
+   </div>
+   <div align=center>
+   
+   #### [4.14 关键字：static](https://github.com/minboo/Java/blob/main/Chapter_4/14.关键字：static.md)
+   </div>
+   <div align=center>
+   
+   #### [4.15 单例模式](https://github.com/minboo/Java/blob/main/Chapter_4/15.单例模式.md)
+   </div>
