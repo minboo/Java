@@ -141,3 +141,7 @@
    
    #### [4.15 单例模式](https://github.com/minboo/Java/blob/main/Chapter_4/15.单例模式.md)
    </div>
+   <div align=center>
+   
+   #### [4.16 类的结构之四：代码块](https://github.com/minboo/Java/blob/main/Chapter_4/16.类的结构之四：代码块.md)
+   </div>
