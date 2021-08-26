@@ -145,3 +145,19 @@
    
    #### [4.16 类的结构之四：代码块](https://github.com/minboo/Java/blob/main/Chapter_4/16.类的结构之四：代码块.md)
    </div>
+   <div align=center>
+   
+   #### [4.17 关键字：final](https://github.com/minboo/Java/blob/main/Chapter_4/17.关键字：final.md)
+   </div>
+   <div align=center>
+   
+   #### [4.18 关键字：abstract](https://github.com/minboo/Java/blob/main/Chapter_4/18.关键字：abstract.md)
+   </div>
+   <div align=center>
+   
+   #### [4.19 模板方法的设计模式](https://github.com/minboo/Java/blob/main/Chapter_4/15.单例模式.md)
+   </div>
+   <div align=center>
+   
+   #### [4.20 关键字：interface](https://github.com/minboo/Java/blob/main/Chapter_4/20.关键字：interface.md)
+   </div>
