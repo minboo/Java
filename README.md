@@ -155,7 +155,7 @@
    </div>
    <div align=center>
    
-   #### [4.19 模板方法的设计模式](https://github.com/minboo/Java/blob/main/Chapter_4/19.单例模式.md)
+   #### [4.19 模板方法的设计模式](https://github.com/minboo/Java/blob/main/Chapter_4/19.模板方法的设计模式.md)
    </div>
    <div align=center>
    
@@ -167,5 +167,5 @@
    </div>
    <div align=center>
    
-   #### [4.22 类的结构：内部类](https://github.com/minboo/Java/blob/main/Chapter_4/2.类的结构：内部类.md)
+   #### [4.22 类的结构：内部类](https://github.com/minboo/Java/blob/main/Chapter_4/22.类的结构：内部类.md)
    </div>
