@@ -229,4 +229,27 @@
    
    #### [6.5 Thread的生命周期](https://github.com/minboo/Java/blob/main/Chapter_6/5.Thread的生命周期.md)
    </div>
+   <div align=center>
 
+   #### [6.6 线程的同步机制](https://github.com/minboo/Java/blob/main/Chapter_6/6.线程的同步机制.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   #### [6.7 线程安全的单例模式(懒汉式)](https://github.com/minboo/Java/blob/main/Chapter_6/7.线程安全的单例模式(懒汉式).md)
+   
+   </div>
+   
+   <div align=center>
+   
+   #### [6.8 死锁问题](https://github.com/minboo/Java/blob/main/Chapter_6/8.死锁问题.md)
+   </div>
+   <div align=center>
+   
+   #### [6.9 线程通信](https://github.com/minboo/Java/blob/main/Chapter_6/9.线程通信.md)
+   </div>
+   <div align=center>
+   
+   #### [6.10 JDK5.0新增线程创建的方式](https://github.com/minboo/Java/blob/main/Chapter_6/10.JDK5.0新增线程创建的方式.md)
+   </div>
