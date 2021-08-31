@@ -57,23 +57,23 @@
    </div>
    <div align=center>
    
-   #### [3.1数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/1.数组的概述.md)
+   #### [3.1 数组的概述](https://github.com/minboo/Java/blob/main/Chapter_3/1.数组的概述.md)
    </div>
    <div align=center>
    
-   #### [3.2一维数组](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
+   #### [3.2 一维数组](https://github.com/minboo/Java/blob/main/Chapter_3/2.一维数组.md)
    </div>
    <div align=center>
    
-   #### [3.3二维数组](https://github.com/minboo/Java/blob/main/Chapter_3/3.二维数组.md)
+   #### [3.3 二维数组](https://github.com/minboo/Java/blob/main/Chapter_3/3.二维数组.md)
    </div>
    <div align=center>
    
-   #### [3.4Array工具类的使用](https://github.com/minboo/Java/blob/main/Chapter_3/4.Array工具类的使用.md)
+   #### [3.4 Array工具类的使用](https://github.com/minboo/Java/blob/main/Chapter_3/4.Array工具类的使用.md)
    </div>
    <div align=center>
    
-   #### [3.5数组的常见异常](https://github.com/minboo/Java/blob/main/Chapter_3/5.数组的常见异常.md)
+   #### [3.5 数组的常见异常](https://github.com/minboo/Java/blob/main/Chapter_3/5.数组的常见异常.md)
 </div>
 <div align=center>
    
@@ -252,4 +252,19 @@
    <div align=center>
    
    #### [6.10 JDK5.0新增线程创建的方式](https://github.com/minboo/Java/blob/main/Chapter_6/10.JDK5.0新增线程创建的方式.md)
+   </div>
+   
+   ## 第七章 [Java常用类](https://github.com/minboo/Java/blob/main/Chapter_7)
+   </div>
+   <div align=center>
+   
+   #### [7.1 String类](https://github.com/minboo/Java/blob/main/Chapter_7/1.String类.md)
+   </div>
+   <div align=center>
+   
+   #### [7.2 StringBuffer、StringBuilder](https://github.com/minboo/Java/blob/main/Chapter_7/2.StringBuffer、StringBuilder.md)
+   </div>
+   <div align=center>
+   
+   #### [7.3 JDK 8之前日期时间API](https://github.com/minboo/Java/blob/main/Chapter_7/3.JDK 8之前日期时间API.md)
    </div>
