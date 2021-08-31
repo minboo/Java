@@ -253,6 +253,7 @@
    
    #### [6.10 JDK5.0新增线程创建的方式](https://github.com/minboo/Java/blob/main/Chapter_6/10.JDK5.0新增线程创建的方式.md)
    </div>
+   <div align=center>
    
    ## 第七章 [Java常用类](https://github.com/minboo/Java/blob/main/Chapter_7)
    </div>
