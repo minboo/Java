@@ -270,3 +270,18 @@
    ### [7.3 JDK8之前日期时间API](https://github.com/minboo/Java/blob/main/Chapter_7/3.JDK8之前日期时间API.md)
    
    </div>
+   
+   <div align=center>
+   
+   ### [7.4 JDK8中新日期时间API](https://github.com/minboo/Java/blob/main/Chapter_7/4.JDK8中新日期时间API.md)
+   </div>
+   <div align=center>
+   
+   ### [7.5 Java比较器](https://github.com/minboo/Java/blob/main/Chapter_7/5.Java比较器.md)
+   </div>
+   <div align=center>
+   
+   ### [7.6 其他类](https://github.com/minboo/Java/blob/main/Chapter_7/6.其他类.md)
+   
+   </div>
+
