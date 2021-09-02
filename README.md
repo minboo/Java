@@ -284,4 +284,49 @@
    ### [7.6 其他类](https://github.com/minboo/Java/blob/main/Chapter_7/6.其他类.md)
    
    </div>
+<div align=center>
+   
+## 第八章 [枚举类和注解](https://github.com/minboo/Java/blob/main/Chapter_8)
+   
+   </div>
+   
+   <div align=center>
 
+   ### [8.1 枚举类的使用](https://github.com/minboo/Java/blob/main/Chapter_8/1.枚举类的使用.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [8.2 注解的使用](https://github.com/minboo/Java/blob/main/Chapter_8/2.注解的使用.md)
+   
+   </div>
+   <div align=center>
+   
+## 第九章 [Java集合](https://github.com/minboo/Java/blob/main/Chapter_9)
+   
+   </div>
+   
+   <div align=center>
+
+   ### [9.1 数组与集合](https://github.com/minboo/Java/blob/main/Chapter_9/1.数组与集合.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [9.2 Collection接口](https://github.com/minboo/Java/blob/main/Chapter_9/2.Collection接口.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [9.3 ****](https://github.com/minboo/Java/blob/main/Chapter_9/3.****.md)
+   
+   </div>
+
+   <div align=center>
+   
+   ### [9.4 Collection子接口：List接口](https://github.com/minboo/Java/blob/main/Chapter_9/4.Collection子接口：List接口.md)
+   
+   </div>
