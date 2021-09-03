@@ -321,7 +321,7 @@
    
    <div align=center>
    
-   ### [9.3 Iterator接口与foreach循环 ](https://github.com/minboo/Java/blob/main/Chapter_9/3.Iterator接口与foreach循环 .md)
+   ### [9.3 Iterator接口与foreach循环](https://github.com/minboo/Java/blob/main/Chapter_9/3.Iterator接口与foreach循环.md)
    
    </div>
 
@@ -339,7 +339,7 @@
    
    <div align=center>
    
-   ### [9.6 Map接口 ](https://github.com/minboo/Java/blob/main/Chapter_9/6.Map接口 .md)
+   ### [9.6 Map接口](https://github.com/minboo/Java/blob/main/Chapter_9/6.Map接口.md)
    
    </div>
 
