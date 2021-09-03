@@ -321,12 +321,30 @@
    
    <div align=center>
    
-   ### [9.3 ****](https://github.com/minboo/Java/blob/main/Chapter_9/3.****.md)
+   ### [9.3 Iterator接口与foreach循环 ](https://github.com/minboo/Java/blob/main/Chapter_9/3.Iterator接口与foreach循环 .md)
    
    </div>
 
    <div align=center>
    
    ### [9.4 Collection子接口：List接口](https://github.com/minboo/Java/blob/main/Chapter_9/4.Collection子接口：List接口.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [9.5 Collection子接口：Set接口](https://github.com/minboo/Java/blob/main/Chapter_9/5.Collection子接口：Set接口.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [9.6 Map接口 ](https://github.com/minboo/Java/blob/main/Chapter_9/6.Map接口 .md)
+   
+   </div>
+
+   <div align=center>
+   
+   ### [9.7 Collections工具类的使用](https://github.com/minboo/Java/blob/main/Chapter_9/7.Collections工具类的使用.md)
    
    </div>
