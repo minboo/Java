@@ -501,13 +501,13 @@
    </div>
       <div align=center>
 
-   ### [13.6 了解ClassLoader](https://github.com/minboo/JavaSE/blob/main/Chapter_13/6.了解ClassLoader.md)
+   ### [13.6 反射应用三：调用运行时类的指定结构](https://github.com/minboo/JavaSE/blob/main/Chapter_13/6.反射应用三：调用运行时类的指定结构.md)
    
    </div>
    
    <div align=center>
    
-   ### [13.7 反射应用一：创建运行时类的对象](https://github.com/minboo/Java/blob/main/Chapter_13/7.反射应用一：创建运行时类的对象.md)
+   ### [13.7 反射应用四：动态代理](https://github.com/minboo/Java/blob/main/Chapter_13/7.反射应用四：动态代理.md)
    
    </div>
 
