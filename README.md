@@ -510,4 +510,41 @@
    ### [13.7 反射应用四：动态代理](https://github.com/minboo/Java/blob/main/Chapter_13/7.反射应用四：动态代理.md)
    
    </div>
+   <div align=center>
+## 第十四章 [Java8的其它新特性](https://github.com/minboo/Java/blob/main/Chapter_14)
+   
+   </div>
+   
+   <div align=center>
 
+   ### [14.1 Lambda表达式](https://github.com/minboo/Java/blob/main/Chapter_14/1.Lambda表达式.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [14.2 函数式接口](https://github.com/minboo/Java/blob/main/Chapter_14/2.函数式接口.md)
+   
+   </div>
+   <div align=center>
+
+   ### [14.3 方法引用](https://github.com/minboo/JavaSE/blob/main/Chapter_14/3.方法引用.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [14.4 构造器引用与数组引用](https://github.com/minboo/Java/blob/main/Chapter_14/4.构造器引用与数组引用.md)
+   
+   </div>
+   
+   <div align=center>
+   
+   ### [14.5 Stream API](https://github.com/minboo/Java/blob/main/Chapter_14/5.Stream API.md)
+   
+   </div>
+      <div align=center>
+
+   ### [14.6 Optional类的使用](https://github.com/minboo/JavaSE/blob/main/Chapter_14/6.Optional类的使用.md)
+   
+   </div>
