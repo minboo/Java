@@ -541,7 +541,7 @@
    
    <div align=center>
    
-   ### [14.5 Stream API](https://github.com/minboo/Java/blob/main/Chapter_14/5.Stream API.md)
+   ### [14.5 StreamAPI](https://github.com/minboo/Java/blob/main/Chapter_14/5.StreamAPI.md)
    
    </div>
    <div align=center>
