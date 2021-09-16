@@ -511,6 +511,7 @@
    
    </div>
    <div align=center>
+   
 ## 第十四章 [Java8的其它新特性](https://github.com/minboo/Java/blob/main/Chapter_14)
    
    </div>
@@ -543,7 +544,7 @@
    ### [14.5 Stream API](https://github.com/minboo/Java/blob/main/Chapter_14/5.Stream API.md)
    
    </div>
-      <div align=center>
+   <div align=center>
 
    ### [14.6 Optional类的使用](https://github.com/minboo/JavaSE/blob/main/Chapter_14/6.Optional类的使用.md)
    
